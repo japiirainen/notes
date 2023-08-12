@@ -7,3 +7,4 @@ My basic note taking setup.
 My notest consists of various sub-categories.
 
 - [math](./math/index.md) related notes.
+- [ideas](./ideas/index.md) of mine.
