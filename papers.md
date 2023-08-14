@@ -1,2 +1,3 @@
 - Correct By Construction Language Implementations. [link](https://ajrouvoet.github.io/files/thesis.pdf)
 - Introduction to graph theory. [link](https://arxiv.org/pdf/2308.04512.pdf)
+- Normalization by Evaluation in the Delay Monad: A Case Study for Coinduction via Copatterns and Sized Types. [link](https://arxiv.org/pdf/1406.2059.pdf)
