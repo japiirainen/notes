@@ -8,3 +8,4 @@ My notest consists of various sub-categories.
 
 - [math](./math/index.md) related notes.
 - [ideas](./ideas/index.md) of mine.
+- [resources](./resources.md).
