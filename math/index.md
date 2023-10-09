@@ -10,3 +10,4 @@ TODO
 - [ ] calculus by spivak
 - [ ] concise algebraic topology
 - [ ] conceptual mathematics
+- [ ] the joy of abstraction
