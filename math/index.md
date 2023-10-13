@@ -11,3 +11,7 @@ TODO
 - [ ] concise algebraic topology
 - [ ] conceptual mathematics
 - [ ] the joy of abstraction
+
+### online books
+
+- [ ] https://openintro-ims2.netlify.app/
