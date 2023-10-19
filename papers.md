@@ -8,3 +8,4 @@
 - canonical cubical TT paper: [link](https://arxiv.org/pdf/1611.02108.pdf)
 - Syntax and models of Cartesian cubical type theory: [link](https://www.cambridge.org/core/journals/mathematical-structures-in-computer-science/article/syntax-and-models-of-cartesian-cubical-type-theory/01B9E98DF997F0861E4BA13A34B72A7D)
 - The Purely Functional Software Deployment Model: [link](https://edolstra.github.io/pubs/phd-thesis.pdf)
+- Sheaves and Logic: [link](https://github.com/CMU-HoTT/scott/blob/main/pdfs/1979-fourman-scott-sheaves-and-logic.pdf)
