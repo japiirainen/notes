@@ -1,6 +1,6 @@
 ## notes
 
-My basic note taking setup consisting only of plain [markdown](https://en.wikipedia.org/wiki/Markdown) files
+My note taking setup consisting only of plain [markdown](https://en.wikipedia.org/wiki/Markdown) files
 hosted on [github](http://github.com/japiirainen/notes).
 
 ### usage
