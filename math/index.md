@@ -6,7 +6,7 @@ TODO
 
 ### reading list
 
-- [ ] basic mathematics
+- [x] basic mathematics
 - [ ] calculus by spivak
 - [ ] concise algebraic topology
 - [ ] conceptual mathematics
