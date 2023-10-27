@@ -10,7 +10,7 @@ TODO
 - [ ] calculus by spivak
 - [ ] concise algebraic topology
 - [ ] conceptual mathematics
-- [ ] the joy of abstraction
+- [x] the joy of abstraction
 
 ### online books
 
