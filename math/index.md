@@ -15,3 +15,7 @@ TODO
 ### online books
 
 - [ ] https://openintro-ims2.netlify.app/
+
+### other awesome resources
+
+- [ ] [The Stacks Project](https://stacks.math.columbia.edu/)
