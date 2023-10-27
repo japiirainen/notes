@@ -2,7 +2,7 @@ The `/math` folder consists of various notes/programs somehow related to math.
 
 ## Table Of Content
 
-TODO
+This document contains math related resources.
 
 ### reading list
 
