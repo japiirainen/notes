@@ -12,6 +12,11 @@ This document contains math related resources.
 - [ ] conceptual mathematics
 - [x] the joy of abstraction
 
+### buying list
+
+- [ ] [Linear Algebra Done Right 4 th edition](https://www.amazon.com/Linear-Algebra-Right-Undergraduate-Mathematics-dp-3031410254/dp/3031410254)
+- [ ] find a good abstract algebra book
+
 ### online books
 
 - [ ] https://openintro-ims2.netlify.app/
