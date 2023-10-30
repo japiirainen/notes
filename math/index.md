@@ -20,6 +20,7 @@ This document contains math related resources.
 ### online books
 
 - [ ] https://openintro-ims2.netlify.app/
+- [ ] https://shoup.net/ntb/ntb-v2.pdf
 
 ### other awesome resources
 
