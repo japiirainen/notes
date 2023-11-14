@@ -22,6 +22,7 @@ This document contains math related resources.
 - [ ] https://openintro-ims2.netlify.app/
 - [ ] https://shoup.net/ntb/ntb-v2.pdf
 
-### other awesome resources
+### other online resources
 
-- [ ] [The Stacks Project](https://stacks.math.columbia.edu/)
+- [The Stacks Project](https://stacks.math.columbia.edu/)
+- [EuclideanSpace - Mathematics and Computing](https://euclideanspace.com/)
