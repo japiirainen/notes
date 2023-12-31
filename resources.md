@@ -1,1 +1,2 @@
 - CSES Algorithm Problem Set. [link](https://cses.fi/)
+- Project Euler. [link](https://projecteuler.net/)
