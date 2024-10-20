@@ -12,9 +12,9 @@ client when on my phone.
 
 My notest consists of various sub-categories.
 
-- [[math/index]] related notes.
-- [[cp/index]] related notes and resources.
-- [[ideas/index]].
-- [[resources]].
-- [[todo]] of mine.
-- [[bouldering/index]] related notes.
+- [./math/index.md](./math/index.md) related notes.
+- [./cp/index.md](./cp/index.md) related notes and resources.
+- [./ideas/index](./ideas/index).
+- [./resources.md](./resources.md).
+- [./todo.md](./todo.md) of mine.
+- [./bouldering/index](./bouldering/index.md).
