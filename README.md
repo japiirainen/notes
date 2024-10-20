@@ -18,3 +18,4 @@ My notest consists of various sub-categories.
 - [./resources.md](./resources.md).
 - [./todo.md](./todo.md) of mine.
 - [./bouldering/index](./bouldering/index.md).
+- [./weight.md](./weight.md) for tracking my body-weight.
