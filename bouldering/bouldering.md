@@ -1,0 +1,2 @@
+- [[finger-boarding]]
+- [[training-log]]
