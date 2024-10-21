@@ -216,3 +216,9 @@
 
 ## 19.10.2024
 - fun bouldering session at BK espoo
+
+21.10.2024 (07.15 - 09.15)
+- 15 min warmup off the wall
+- 15 min warmup spray-wall/fingerboard/moonboard
+- 60 min max effort moonboarding
+- [./max-hang-training.md](./max-hang-training.md) with 20kg extra weight
