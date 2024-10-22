@@ -14,7 +14,7 @@ My notest consists of various sub-categories.
 
 - [./math/index.md](./math/index.md) related notes.
 - [./cp/index.md](./cp/index.md) related notes and resources.
-- [./ideas/index](./ideas/index).
+- [./ideas/index.md](./ideas/index.md).
 - [./resources.md](./resources.md).
 - [./todo.md](./todo.md) of mine.
 - [./bouldering/index](./bouldering/index.md).
