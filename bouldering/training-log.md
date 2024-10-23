@@ -224,3 +224,10 @@
 - 15 min warmup spray-wall/fingerboard/moonboard
 - 60 min max effort moonboarding
 - [./max-hang-training.md](./max-hang-training.md) with 20kg extra weight
+
+23.10.2024 (07.20 - 09.30)
+- 15 min warmup off the wall
+- 25 min warmup spray-wall/fingerboard/moonboard
+- 45 min max effort moonboarding
+- weighted pull-ups / dips
+- shoulder press / one arm row
