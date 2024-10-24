@@ -1,2 +1,3 @@
 - [./finger-boarding.md](./finger-boarding.md)
 - [./training-log.md](./training-log.md)
+- [./goals.md](./goals.md)
