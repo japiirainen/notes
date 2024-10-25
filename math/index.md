@@ -10,7 +10,7 @@ This document contains math related resources.
 
 ### buying list
 
-- [ ] 
+- [ ] [modern computer algebra](https://www.cambridge.org/core/books/modern-computer-algebra/DB3563D4013401734851CF683D2F03F0#)
 
 ### online books
 
