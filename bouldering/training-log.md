@@ -231,3 +231,11 @@
 - 45 min max effort moonboarding
 - weighted pull-ups / dips
 - shoulder press / one arm row
+
+25.10.2024 (07.50 - 10.10)
+- 15 min warmup off the wall
+- 25 min warmup spray-wall/fingerboard/moonboard
+- 60 min max effort moonboarding
+- 5*7 sec max hangs with 25-27.5 kg
+- 3 * hammer curls/l-sit hang superset
+- 3 * wrist curls 8kg
