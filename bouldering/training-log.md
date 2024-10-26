@@ -239,3 +239,7 @@
 - 5*7 sec max hangs with 25-27.5 kg
 - 3 * hammer curls/l-sit hang superset
 - 3 * wrist curls 8kg
+
+26.10.2024 (07.50-10.00)
+- 20 min warmup
+- bouldering on commercial setting
